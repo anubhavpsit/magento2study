@@ -1,0 +1,1 @@
+/var/www/html/magento2/app/code/Magento/ConfigurableProduct/view/adminhtml/web/js/components/custom-options-warning.js

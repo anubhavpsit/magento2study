@@ -1,0 +1,1 @@
+/var/www/html/magento2/app/code/Magento/Review/view/frontend/web/js/validate-review.js
